@@ -13,4 +13,6 @@ Command Line :
  - git reset
  - git reset -argument
  - git reset HEAD~1 (HEAD -> Reset with the last point from commit with added request)
+ - git reset with commit code using (git log)
+ - git reset --hard -commit log code -> to force older commit with git log
 ### Date 02/08/68
